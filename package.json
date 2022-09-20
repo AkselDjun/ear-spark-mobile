@@ -27,7 +27,6 @@
     "@babel/core": "^7.12.9"
   },
   "private": true,
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Alexei Khinevich",
+  "license": "ISC"
 }
