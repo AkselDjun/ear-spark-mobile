@@ -1,8 +1,9 @@
 {
   "expo": {
     "name": "Ear Spark",
-    "slug": "Ear Spark",
+    "slug": "ear-spark",
     "version": "1.0.0",
+    "owner": "akseldjun",
     "orientation": "portrait",
     "icon": "./assets/earbuds.png",
     "userInterfaceStyle": "dark",
@@ -22,10 +23,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/earbuds.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.akseldjun.earspark"
     },
     "web": {
       "favicon": "./assets/earbuds.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ec21e592-199f-4bcd-b0da-d8bb58c5e672"
+      }
     }
   }
 }
